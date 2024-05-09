@@ -42,3 +42,14 @@ h2{
 h1{
     color: white;
 }
+@media screen and (max-width:500px){
+    .my{
+        padding: 5px;
+    }
+    .count-input{
+        width: 75%;
+    }
+    button{
+        width: 75%;
+    }
+}
